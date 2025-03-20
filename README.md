@@ -38,9 +38,9 @@ pip install -r requirements.txt
 
 ## Demo
 
-### Video Demostración
+### Video Demonstration
 
-[![IMSE-Scraper Demo](img/thumbnail.png)](https://drive.google.com/drive/folders/1zrKBeyU1fyXFN25R4iIvHSVZKBe96r1a "Ver demostración del IMSE-Scraper")
+[![IMSE-Scraper Demo](img/thumbnail.png)](https://drive.google.com/file/d/1lth75ip0xKREX4BOMMzoNSZ2V7-tGfgM/view?usp=sharing "View IMSE-Scraper demo")
 
 ## Usage
 
