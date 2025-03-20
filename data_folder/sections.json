@@ -1,0 +1,107 @@
+[
+  {
+    "title": "INICIO",
+    "url": "http://www.imse-cnm.csic.es/index.php",
+    "section_id": "inicio"
+  },
+  {
+    "title": "Introducción",
+    "url": "http://www.imse-cnm.csic.es/es/introduccion.php",
+    "section_id": "introducción"
+  },
+  {
+    "title": "Cómo llegar",
+    "url": "http://www.imse-cnm.csic.es/es/como-llegar.php",
+    "section_id": "cómo_llegar"
+  },
+  {
+    "title": "Organización",
+    "url": "http://www.imse-cnm.csic.es/es/organizacion.php",
+    "section_id": "organización"
+  },
+  {
+    "title": "Personal",
+    "url": "http://www.imse-cnm.csic.es/es/personal.php",
+    "section_id": "personal"
+  },
+  {
+    "title": "Visitas al IMSE",
+    "url": "http://www.imse-cnm.csic.es/es/visitas.php",
+    "section_id": "visitas_al_imse"
+  },
+  {
+    "title": "El IMSE en los medios",
+    "url": "http://www.imse-cnm.csic.es/es/medios.php",
+    "section_id": "el_imse_en_los_medios"
+  },
+  {
+    "title": "Memoria 2020",
+    "url": "http://www.imse-cnm.csic.es/es/memoria-2020.php",
+    "section_id": "memoria_2020"
+  },
+  {
+    "title": "Contacto",
+    "url": "http://www.imse-cnm.csic.es/es/contacto.php",
+    "section_id": "contacto"
+  },
+  {
+    "title": "Laboratorios",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios.php",
+    "section_id": "laboratorios"
+  },
+  {
+    "title": "Herramientas CAD",
+    "url": "http://www.imse-cnm.csic.es/es/herramientas-cad.php",
+    "section_id": "herramientas_cad"
+  },
+  {
+    "title": "Catálogo de Servicios Científico-Técnicos",
+    "url": "http://www.imse-cnm.csic.es/es/catalogo-servicios.php",
+    "section_id": "catálogo_de_servicios_científico_técnicos"
+  },
+  {
+    "title": "Copias de respaldo",
+    "url": "http://www.imse-cnm.csic.es/es/copias-respaldo.php",
+    "section_id": "copias_de_respaldo"
+  },
+  {
+    "title": "Áreas y Líneas de Investigación",
+    "url": "http://www.imse-cnm.csic.es/es/areas-investigacion.php",
+    "section_id": "áreas_y_líneas_de_investigación"
+  },
+  {
+    "title": "Proyectos",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos.php",
+    "section_id": "proyectos"
+  },
+  {
+    "title": "Publicaciones del IMSE",
+    "url": "http://www.imse-cnm.csic.es/es/publicaciones.php",
+    "section_id": "publicaciones_del_imse"
+  },
+  {
+    "title": "Catálogo de ICs",
+    "url": "http://www.imse-cnm.csic.es/es/catalogo-chips.php",
+    "section_id": "catálogo_de_ics"
+  },
+  {
+    "title": "Grupos de Investigación",
+    "url": "http://www.imse-cnm.csic.es/es/grupos-investigacion.php",
+    "section_id": "grupos_de_investigación"
+  },
+  {
+    "title": "Formación en el IMSE",
+    "url": "http://www.imse-cnm.csic.es/es/formacion.php",
+    "section_id": "formación_en_el_imse"
+  },
+  {
+    "title": "Empleo en el IMSE",
+    "url": "http://www.imse-cnm.csic.es/es/empleo-imse.php",
+    "section_id": "empleo_en_el_imse"
+  },
+  {
+    "title": "Ofertas de Acogidas en el IMSE",
+    "url": "http://www.imse-cnm.csic.es/es/ofertas-acogidas-imse.php",
+    "section_id": "ofertas_de_acogidas_en_el_imse"
+  }
+]
