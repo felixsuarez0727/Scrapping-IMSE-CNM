@@ -36,6 +36,12 @@ pip install -r requirements.txt
 - Selenium
 - ChromeDriver (installed automatically with webdriver-manager)
 
+## Demo
+
+### Video Demostración
+
+[![IMSE-Scraper Demo](img/thumbnail.png)](https://drive.google.com/drive/folders/1zrKBeyU1fyXFN25R4iIvHSVZKBe96r1a "Ver demostración del IMSE-Scraper")
+
 ## Usage
 
 ### Command Line Interface
