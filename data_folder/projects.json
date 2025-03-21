@@ -1,58 +1,666 @@
 [
   {
-    "title": "Áreas de Investigación",
-    "description": "",
+    "title": "INICIO - SOBRE EL IMSE\n\nIntroducción\nCómo llegar\nOrganización\nPersonal\n\nVisitas al IMSE\nEl IMSE en los medios\nMemoria 2020\n\nContacto",
+    "description": "SOBRE EL IMSE\n\nIntroducción\nCómo llegar\nOrganización\nPersonal\n\nVisitas al IMSE\nEl IMSE en los medios\nMemoria 2020\n\nContacto",
+    "principal_investigator": "",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/index.php"
   },
   {
-    "title": "11 de febrero - Día Internacional de la Mujer y la Niña en la Ciencia",
-    "description": "",
+    "title": "SOBRE EL IMSE - RECURSOS\n\nLaboratorios\nHerramientas CAD\nCatálogo de Servicios Científico-Técnicos\nCopias de respaldo",
+    "description": "RECURSOS\n\nLaboratorios\nHerramientas CAD\nCatálogo de Servicios Científico-Técnicos\nCopias de respaldo",
+    "principal_investigator": "",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/es/proyectos.php"
   },
   {
-    "title": "Nueva Directora del IMSE-CNM",
-    "description": "LEER MÁS",
+    "title": "RECURSOS - INVESTIGACIÓN\n\nÁreas y Líneas de Investigación\nProyectos\nPublicaciones del IMSE\nCatálogo de ICs\n\nGrupos de Investigación",
+    "description": "INVESTIGACIÓN\n\nÁreas y Líneas de Investigación\nProyectos\nPublicaciones del IMSE\nCatálogo de ICs\n\nGrupos de Investigación",
+    "principal_investigator": "",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/es/proyectos.php"
   },
   {
-    "title": "Formación en el IMSE",
-    "description": "LEER MÁS",
+    "title": "INVESTIGACIÓN - TRANSFERENCIA TECNOLÓGICA",
+    "description": "TRANSFERENCIA TECNOLÓGICA",
+    "principal_investigator": "",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/es/proyectos.php"
   },
   {
-    "title": "Publicaciones recientes",
-    "description": "",
+    "title": "TRANSFERENCIA TECNOLÓGICA - EMPLEO Y FORMACIÓN\n\nFormación en el IMSE\nEmpleo en el IMSE\nOfertas de Acogidas en el IMSE\nEmpleo en la Universidad de Sevilla\nEmpleo en el CSIC",
+    "description": "EMPLEO Y FORMACIÓN\n\nFormación en el IMSE\nEmpleo en el IMSE\nOfertas de Acogidas en el IMSE\nEmpleo en la Universidad de Sevilla\nEmpleo en el CSIC",
+    "principal_investigator": "",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www2.imse-cnm.csic.es/transferencia/"
   },
   {
-    "title": "Video institucional del IMSE",
-    "description": "",
+    "title": "Unión Europea - Colaboración Internacional",
+    "description": "Colaboración Internacional",
+    "principal_investigator": "",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/es/proyectos/proyectos-europeos.php"
   },
   {
-    "title": "Qué hacemos en el IMSE",
-    "description": "El área de especialización del Instituto es el diseño de circuitos integrados analógicos y de señal mixta en tecnología CMOS, así como su uso en diferentes contextos de aplicación tales como dispositivos biomédicos, comunicaciones inalámbricas, conversión de datos, sensores de visión inteligentes, ciberseguridad, computación neuromórfica y tecnología espacial. La plantilla del IMSE-CNM está formada por unas cien personas, entre personal científico y de apoyo, que participan en el avance del conocimiento, la generación de diseños de alto nivel científico-técnico y la transferencia de tecnología. LEER MÁS",
+    "title": "Euphoric - HIGHLOAWALLET\n\nTécnicas cripto-biométricas y soluciones hardware para carteras de identidades auto-soberanas con alto nivel de seguridad\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "description": "HIGHLOAWALLET\n\nTécnicas cripto-biométricas y soluciones hardware para carteras de identidades auto-soberanas con alto nivel de seguridad\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "principal_investigator": "ELIXIR\n\nMejora de la percepción visual con una nueva generación de sensores infrarrojos de visión inteligentes\n \n\t\t\t\t  Juan A. Leñero Bardallo",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=262"
   },
   {
-    "title": "Webs relacionadas con el IMSE",
-    "description": "",
+    "title": "HIGHLOAWALLET - ELIXIR\n\nMejora de la percepción visual con una nueva generación de sensores infrarrojos de visión inteligentes\nIP: \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "description": "ELIXIR\n\nMejora de la percepción visual con una nueva generación de sensores infrarrojos de visión inteligentes\nIP: \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "principal_investigator": "TIRELESS\n\nFiabilidad, seguridad y eficiencia energética en dispositivos y circuitos electrónicos para IoT edge\n \n\t\t\t\t  Francisco V. Fernández Fernández",
     "period": "",
     "funding": "",
-    "url": "http://www.imse-cnm.csic.es/index.php/en/projects"
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=261"
+  },
+  {
+    "title": "ELIXIR - TIRELESS\n\nFiabilidad, seguridad y eficiencia energética en dispositivos y circuitos electrónicos para IoT edge\nIP: \n\t\t\t\t  Francisco V. Fernández Fernández",
+    "description": "TIRELESS\n\nFiabilidad, seguridad y eficiencia energética en dispositivos y circuitos electrónicos para IoT edge\nIP: \n\t\t\t\t  Francisco V. Fernández Fernández",
+    "principal_investigator": "SiP-SEXI\n\nSystems in Package for Space Exploration Instrumentation\n \n\t\t\t\t  Diego Vázquez García de la Vega",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=260"
+  },
+  {
+    "title": "TIRELESS - SiP-SEXI\n\nSystems in Package for Space Exploration Instrumentation\nIP: \n\t\t\t\t  Diego Vázquez García de la Vega",
+    "description": "SiP-SEXI\n\nSystems in Package for Space Exploration Instrumentation\nIP: \n\t\t\t\t  Diego Vázquez García de la Vega",
+    "principal_investigator": "RADIAN\n\nInterfaces radiofrecuencia/digital gestionadas por redes neuronales artificiales\n \n\t\t\t\t  José M. de la Rosa Utrera",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=245"
+  },
+  {
+    "title": "SiP-SEXI - RADIAN\n\nInterfaces radiofrecuencia/digital gestionadas por redes neuronales artificiales\nIP: \n\t\t\t\t  José M. de la Rosa Utrera",
+    "description": "RADIAN\n\nInterfaces radiofrecuencia/digital gestionadas por redes neuronales artificiales\nIP: \n\t\t\t\t  José M. de la Rosa Utrera",
+    "principal_investigator": "VIPS-ID\n\nIdentificación Segura, Distribuida, Privada y Verificable de Personas y Cosas\n \n\t\t\t\t  Iluminada Baturone Castillo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=244"
+  },
+  {
+    "title": "RADIAN - VIPS-ID\n\nIdentificación Segura, Distribuida, Privada y Verificable de Personas y Cosas\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "description": "VIPS-ID\n\nIdentificación Segura, Distribuida, Privada y Verificable de Personas y Cosas\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "principal_investigator": "Hard-ID-wallet\n\nPrueba de concepto de soluciones de seguridad hardware requeridas por la criptografía y biometría de carteras de identidades digitales\n \n\t\t\t\t  Iluminada Baturone Castillo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=243"
+  },
+  {
+    "title": "VIPS-ID - Hard-ID-wallet\n\nPrueba de concepto de soluciones de seguridad hardware requeridas por la criptografía y biometría de carteras de identidades digitales\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "description": "Hard-ID-wallet\n\nPrueba de concepto de soluciones de seguridad hardware requeridas por la criptografía y biometría de carteras de identidades digitales\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "principal_investigator": "SEMIoTICS\n\nInteligencia embebida en sensores y sistemas de visión de bajo consumo y operación de largo término\n \n\t\t\t\t  Ricardo Carmona Galán / Jorge Fernández Berni",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=242"
+  },
+  {
+    "title": "Hard-ID-wallet - SEMIoTICS\n\nInteligencia embebida en sensores y sistemas de visión de bajo consumo y operación de largo término\nIP: \n\t\t\t\t  Ricardo Carmona Galán / Jorge Fernández Berni",
+    "description": "SEMIoTICS\n\nInteligencia embebida en sensores y sistemas de visión de bajo consumo y operación de largo término\nIP: \n\t\t\t\t  Ricardo Carmona Galán / Jorge Fernández Berni",
+    "principal_investigator": "ASIC-IMTER\n\nASIC Prueba de concepto para medidas de impedancias térmicas en el dominio de la frecuencia\n \n\t\t\t\t  Servando Espejo Meana",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=247"
+  },
+  {
+    "title": "SEMIoTICS - ASIC-IMTER\n\nASIC Prueba de concepto para medidas de impedancias térmicas en el dominio de la frecuencia\nIP: \n\t\t\t\t  Servando Espejo Meana",
+    "description": "ASIC-IMTER\n\nASIC Prueba de concepto para medidas de impedancias térmicas en el dominio de la frecuencia\nIP: \n\t\t\t\t  Servando Espejo Meana",
+    "principal_investigator": "FEMPS\n\nMicroelectrónica de Front-End para Sensores Planetarios\n \n\t\t\t\t  Servando Espejo Meana",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=221"
+  },
+  {
+    "title": "ASIC-IMTER - FEMPS\n\nMicroelectrónica de Front-End para Sensores Planetarios\nIP: \n\t\t\t\t  Servando Espejo Meana",
+    "description": "FEMPS\n\nMicroelectrónica de Front-End para Sensores Planetarios\nIP: \n\t\t\t\t  Servando Espejo Meana",
+    "principal_investigator": "ARES\n\nDiseño, implementación y validación de raíces de confianza hardware resistentes a ataques para sistemas empotrados seguros\n \n\t\t\t\t  Carlos J. Jiménez Fernández / Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=246"
+  },
+  {
+    "title": "FEMPS - ARES\n\nDiseño, implementación y validación de raíces de confianza hardware resistentes a ataques para sistemas empotrados seguros\nIP: \n\t\t\t\t  Carlos J. Jiménez Fernández / Piedad Brox Jiménez",
+    "description": "ARES\n\nDiseño, implementación y validación de raíces de confianza hardware resistentes a ataques para sistemas empotrados seguros\nIP: \n\t\t\t\t  Carlos J. Jiménez Fernández / Piedad Brox Jiménez",
+    "principal_investigator": "SARATSO\n\nAuto-optimización de la temporización asíncrona para convertidores de tipo SAR\n \n\t\t\t\t  Gildas Léger",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=227"
+  },
+  {
+    "title": "ARES - SARATSO\n\nAuto-optimización de la temporización asíncrona para convertidores de tipo SAR\nIP: \n\t\t\t\t  Gildas Léger",
+    "description": "SARATSO\n\nAuto-optimización de la temporización asíncrona para convertidores de tipo SAR\nIP: \n\t\t\t\t  Gildas Léger",
+    "principal_investigator": "DIGISOLAR F2\n\nNuevo sensor solar digital asíncrono para aplicaciones newspace con arquitectura basada en eventos, fase 2\n \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=211"
+  },
+  {
+    "title": "SARATSO - DIGISOLAR F2\n\nNuevo sensor solar digital asíncrono para aplicaciones newspace con arquitectura basada en eventos, fase 2\nIP: \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "description": "DIGISOLAR F2\n\nNuevo sensor solar digital asíncrono para aplicaciones newspace con arquitectura basada en eventos, fase 2\nIP: \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "principal_investigator": "AIR-CHIP\n\nChip digitalizador de radiofrecuencia gestionado por algoritmos de inteligencia artificial\n \n\t\t\t\t  José M. de la Rosa Utrera",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=250"
+  },
+  {
+    "title": "DIGISOLAR F2 - AIR-CHIP\n\nChip digitalizador de radiofrecuencia gestionado por algoritmos de inteligencia artificial\nIP: \n\t\t\t\t  José M. de la Rosa Utrera",
+    "description": "AIR-CHIP\n\nChip digitalizador de radiofrecuencia gestionado por algoritmos de inteligencia artificial\nIP: \n\t\t\t\t  José M. de la Rosa Utrera",
+    "principal_investigator": "MEMVIS\n\nHardware memristivo neuromorfico para reconocimiento de visión\n \n\t\t\t\t  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=264"
+  },
+  {
+    "title": "AIR-CHIP - MEMVIS\n\nHardware memristivo neuromorfico para reconocimiento de visión\nIP: \n\t\t\t\t  Teresa Serrano Gotarredona",
+    "description": "MEMVIS\n\nHardware memristivo neuromorfico para reconocimiento de visión\nIP: \n\t\t\t\t  Teresa Serrano Gotarredona",
+    "principal_investigator": "E-CELL\n\nOptimización de los procesos de diferenciacion en celulas madre y tumorales basada en electroestimulación\n \n\t\t\t\t  Alberto Yúfera García",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=248"
+  },
+  {
+    "title": "MEMVIS - E-CELL\n\nOptimización de los procesos de diferenciacion en celulas madre y tumorales basada en electroestimulación\nIP: \n\t\t\t\t  Alberto Yúfera García",
+    "description": "E-CELL\n\nOptimización de los procesos de diferenciacion en celulas madre y tumorales basada en electroestimulación\nIP: \n\t\t\t\t  Alberto Yúfera García",
+    "principal_investigator": "SMARTRANS\n\nSMART integrated components for the development of intelligent vehicles and TRANSportation insfrastructure\n \n\t\t\t\t  Ricardo Carmona Galán",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=249"
+  },
+  {
+    "title": "E-CELL - SMARTRANS\n\nSMART integrated components for the development of intelligent vehicles and TRANSportation insfrastructure\nIP: \n\t\t\t\t  Ricardo Carmona Galán",
+    "description": "SMARTRANS\n\nSMART integrated components for the development of intelligent vehicles and TRANSportation insfrastructure\nIP: \n\t\t\t\t  Ricardo Carmona Galán",
+    "principal_investigator": "AEROSKIN\n\nSmart Skin for Airflow Sensing\n \n\t\t\t\t  Servando Espejo Meana",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=222"
+  },
+  {
+    "title": "SMARTRANS - AEROSKIN\n\nSmart Skin for Airflow Sensing\nIP: \n\t\t\t\t  Servando Espejo Meana",
+    "description": "AEROSKIN\n\nSmart Skin for Airflow Sensing\nIP: \n\t\t\t\t  Servando Espejo Meana",
+    "principal_investigator": "HARDWALLET\n\nHardware de confianza y con seguridad post-cuántica para carteras de identidades descentralizadas que usan rasgos distintivos de personas y dispositivos\n \n\t\t\t\t  Iluminada Baturone Castillo / M. Rosario Arjona López",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=240"
+  },
+  {
+    "title": "AEROSKIN - HARDWALLET\n\nHardware de confianza y con seguridad post-cuántica para carteras de identidades descentralizadas que usan rasgos distintivos de personas y dispositivos\nIP: \n\t\t\t\t  Iluminada Baturone Castillo / M. Rosario Arjona López",
+    "description": "HARDWALLET\n\nHardware de confianza y con seguridad post-cuántica para carteras de identidades descentralizadas que usan rasgos distintivos de personas y dispositivos\nIP: \n\t\t\t\t  Iluminada Baturone Castillo / M. Rosario Arjona López",
+    "principal_investigator": "ULTIMATE\n\nPlataforma embebida multi-sensorial inteligente para monitorización avanzada de la naturaleza\n \n\t\t\t\t  Jorge Fernández Berni / Ricardo Carmona Galán",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=226"
+  },
+  {
+    "title": "HARDWALLET - ULTIMATE\n\nPlataforma embebida multi-sensorial inteligente para monitorización avanzada de la naturaleza\nIP: \n\t\t\t\t  Jorge Fernández Berni / Ricardo Carmona Galán",
+    "description": "ULTIMATE\n\nPlataforma embebida multi-sensorial inteligente para monitorización avanzada de la naturaleza\nIP: \n\t\t\t\t  Jorge Fernández Berni / Ricardo Carmona Galán",
+    "principal_investigator": "LIFELINE\n\nVariabilidad temporal en circuitos integrados: enemigo (y como combatirlo para la economia circular) y amigo (y como explotarlo para una solucion disruptiva en ciberseguridad)\n \n\t\t\t\t  Rafael Castro López / Francisco V. Fernández Fernández",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=214"
+  },
+  {
+    "title": "ULTIMATE - LIFELINE\n\nVariabilidad temporal en circuitos integrados: enemigo (y como combatirlo para la economia circular) y amigo (y como explotarlo para una solucion disruptiva en ciberseguridad)\nIP: \n\t\t\t\t  Rafael Castro López / Francisco V. Fernández Fernández",
+    "description": "LIFELINE\n\nVariabilidad temporal en circuitos integrados: enemigo (y como combatirlo para la economia circular) y amigo (y como explotarlo para una solucion disruptiva en ciberseguridad)\nIP: \n\t\t\t\t  Rafael Castro López / Francisco V. Fernández Fernández",
+    "principal_investigator": "NANO-MEM\n\nCognición Nano-Memristiva y Percepción Neuromórficas para Actuación Robótica de Alta Velocidad\n \n\t\t\t\t  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=228"
+  },
+  {
+    "title": "LIFELINE - NANO-MEM\n\nCognición Nano-Memristiva y Percepción Neuromórficas para Actuación Robótica de Alta Velocidad\nIP: \n\t\t\t\t  Teresa Serrano Gotarredona",
+    "description": "NANO-MEM\n\nCognición Nano-Memristiva y Percepción Neuromórficas para Actuación Robótica de Alta Velocidad\nIP: \n\t\t\t\t  Teresa Serrano Gotarredona",
+    "principal_investigator": "MIRABRAS\n\nImplante milimétrico con inteligencia artificial integrada para asistencia en desórdenes neurológicos\n \n\t\t\t\t  Manuel Delgado Restituto",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=229"
+  },
+  {
+    "title": "NANO-MEM - MIRABRAS\n\nImplante milimétrico con inteligencia artificial integrada para asistencia en desórdenes neurológicos\nIP: \n\t\t\t\t  Manuel Delgado Restituto",
+    "description": "MIRABRAS\n\nImplante milimétrico con inteligencia artificial integrada para asistencia en desórdenes neurológicos\nIP: \n\t\t\t\t  Manuel Delgado Restituto",
+    "principal_investigator": "VIGILANT\n\nThe Variability Challenge in Nano-CMOS: From Device Modeling to IC Design for Mitigation and Exploitation\n \n\t\t\t\t  Francisco V. Fernández Fernández / Rafael Castro López",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=203"
+  },
+  {
+    "title": "MIRABRAS - VIGILANT\n\nThe Variability Challenge in Nano-CMOS: From Device Modeling to IC Design for Mitigation and Exploitation\nIP: \n\t\t\t\t  Francisco V. Fernández Fernández / Rafael Castro López",
+    "description": "VIGILANT\n\nThe Variability Challenge in Nano-CMOS: From Device Modeling to IC Design for Mitigation and Exploitation\nIP: \n\t\t\t\t  Francisco V. Fernández Fernández / Rafael Castro López",
+    "principal_investigator": "DIGISOLAR\n\nNuevo sensor solar digital asíncrono para aplicaciones NewSpace con arquitectura basada en eventos\n \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=205"
+  },
+  {
+    "title": "VIGILANT - DIGISOLAR\n\nNuevo sensor solar digital asíncrono para aplicaciones NewSpace con arquitectura basada en eventos\nIP: \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "description": "DIGISOLAR\n\nNuevo sensor solar digital asíncrono para aplicaciones NewSpace con arquitectura basada en eventos\nIP: \n\t\t\t\t  Juan A. Leñero Bardallo",
+    "principal_investigator": "CORDION\n\nDigitalizadores basados en Radio Cognitiva para nodos loT\n \n\t\t\t\t  José M. de la Rosa Utrera",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=204"
+  },
+  {
+    "title": "DIGISOLAR - CORDION\n\nDigitalizadores basados en Radio Cognitiva para nodos loT\nIP: \n\t\t\t\t  José M. de la Rosa Utrera",
+    "description": "CORDION\n\nDigitalizadores basados en Radio Cognitiva para nodos loT\nIP: \n\t\t\t\t  José M. de la Rosa Utrera",
+    "principal_investigator": "MAS+CARA\n\nPrueba de concepto de un esquema de reconocimiento facial descentralizado, que ofrece privacidad y seguridad post-cuántica\n \n\t\t\t\t  Iluminada Baturone Castillo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=231"
+  },
+  {
+    "title": "CORDION - MAS+CARA\n\nPrueba de concepto de un esquema de reconocimiento facial descentralizado, que ofrece privacidad y seguridad post-cuántica\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "description": "MAS+CARA\n\nPrueba de concepto de un esquema de reconocimiento facial descentralizado, que ofrece privacidad y seguridad post-cuántica\nIP: \n\t\t\t\t  Iluminada Baturone Castillo",
+    "principal_investigator": "ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO\n\nActualización  de  las  prestaciones  de  analisis  y  generación  de  señal  para  los  retos  del   proximo salto tecnológico en micro y nano-electrónica.\n \n\t\t\t\t  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=206"
+  },
+  {
+    "title": "MAS+CARA - ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO\n\nActualización  de  las  prestaciones  de  analisis  y  generación  de  señal  para  los  retos  del   proximo salto tecnológico en micro y nano-electrónica.\nIP: \n\t\t\t\t  Bernabé Linares Barranco",
+    "description": "ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO\n\nActualización  de  las  prestaciones  de  analisis  y  generación  de  señal  para  los  retos  del   proximo salto tecnológico en micro y nano-electrónica.\nIP: \n\t\t\t\t  Bernabé Linares Barranco",
+    "principal_investigator": "ENVISAGE\n\nTecnologias de vision habilitantes para transporte inteligente integrado\n \n\t\t\t\t  Ricardo Carmona Galán / Jorge Fernández Berni",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=217"
+  },
+  {
+    "title": "ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO - ENVISAGE\n\nTecnologias de vision habilitantes para transporte inteligente integrado\nIP: \n\t\t\t\t  Ricardo Carmona Galán / Jorge Fernández Berni",
+    "description": "ENVISAGE\n\nTecnologias de vision habilitantes para transporte inteligente integrado\nIP: \n\t\t\t\t  Ricardo Carmona Galán / Jorge Fernández Berni",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=220"
+  },
+  {
+    "title": "Programa Investigo - RTN SECURE\n\nExplotación del RTN para seguridad hardware resistente al envejecimiento\nIP: \n                  Elisenda Roca Moreno",
+    "description": "RTN SECURE\n\nExplotación del RTN para seguridad hardware resistente al envejecimiento\nIP: \n                  Elisenda Roca Moreno",
+    "principal_investigator": "BIOVEO\n\nSistema hardware nano/CMOS de reconocimiento de objetos BIOinspirado con Visión E-fOveal\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=241"
+  },
+  {
+    "title": "RTN SECURE - BIOVEO\n\nSistema hardware nano/CMOS de reconocimiento de objetos BIOinspirado con Visión E-fOveal\nIP: \n                  Bernabé Linares Barranco",
+    "description": "BIOVEO\n\nSistema hardware nano/CMOS de reconocimiento de objetos BIOinspirado con Visión E-fOveal\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "PRECLI-HF\n\nPRototipado y Ensayo CLÍnico del nuevo dispositivo portátil HF-volum para la monitorización en tiempo real de volúmenes en pacientes con insuficiencia cardiaca\n \n                  Alberto Yúfera García",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=233"
+  },
+  {
+    "title": "BIOVEO - PRECLI-HF\n\nPRototipado y Ensayo CLÍnico del nuevo dispositivo portátil HF-volum para la monitorización en tiempo real de volúmenes en pacientes con insuficiencia cardiaca\nIP: \n                  Alberto Yúfera García",
+    "description": "PRECLI-HF\n\nPRototipado y Ensayo CLÍnico del nuevo dispositivo portátil HF-volum para la monitorización en tiempo real de volúmenes en pacientes con insuficiencia cardiaca\nIP: \n                  Alberto Yúfera García",
+    "principal_investigator": "SYMAS\n\nSistema de medida y electroestimulación para aplicaciones de diferenciación y motilidad celular\n \n                  Alberto Yúfera García",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=232"
+  },
+  {
+    "title": "PRECLI-HF - SYMAS\n\nSistema de medida y electroestimulación para aplicaciones de diferenciación y motilidad celular\nIP: \n                  Alberto Yúfera García",
+    "description": "SYMAS\n\nSistema de medida y electroestimulación para aplicaciones de diferenciación y motilidad celular\nIP: \n                  Alberto Yúfera García",
+    "principal_investigator": "[NO ACRONYM]\n\nDiseño y Estudio de Mercado de Un Prototipo Industrial de Sensor Solar Asíncrono para El Control de la Actitud en Sistemas de Navegación Espacial\n \n                  Juan A. Leñero Bardallo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=225"
+  },
+  {
+    "title": "SYMAS - [NO ACRONYM]\n\nDiseño y Estudio de Mercado de Un Prototipo Industrial de Sensor Solar Asíncrono para El Control de la Actitud en Sistemas de Navegación Espacial\nIP: \n                  Juan A. Leñero Bardallo",
+    "description": "[NO ACRONYM]\n\nDiseño y Estudio de Mercado de Un Prototipo Industrial de Sensor Solar Asíncrono para El Control de la Actitud en Sistemas de Navegación Espacial\nIP: \n                  Juan A. Leñero Bardallo",
+    "principal_investigator": "VERSO\n\nIntegración vertical de sensores de imagen con paralelismo embebido\n \n                  Juan A. Leñero Bardallo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=207"
+  },
+  {
+    "title": "[NO ACRONYM] - VERSO\n\nIntegración vertical de sensores de imagen con paralelismo embebido\nIP: \n                  Juan A. Leñero Bardallo",
+    "description": "VERSO\n\nIntegración vertical de sensores de imagen con paralelismo embebido\nIP: \n                  Juan A. Leñero Bardallo",
+    "principal_investigator": "SCAROT\n\nSide-Channel Attacks on Root of Trust\n \n                  Antonio J. Acosta Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=224"
+  },
+  {
+    "title": "VERSO - SCAROT\n\nSide-Channel Attacks on Root of Trust\nIP: \n                  Antonio J. Acosta Jiménez",
+    "description": "SCAROT\n\nSide-Channel Attacks on Root of Trust\nIP: \n                  Antonio J. Acosta Jiménez",
+    "principal_investigator": "RESURGENCE \n\nPower, reliability and security challenges in advanced CMOS and beyond-CMOS devices and circuits\n \n                  Juan Núñez Martínez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=216"
+  },
+  {
+    "title": "SCAROT - RESURGENCE \n\nPower, reliability and security challenges in advanced CMOS and beyond-CMOS devices and circuits\nIP: \n                  Juan Núñez Martínez",
+    "description": "RESURGENCE \n\nPower, reliability and security challenges in advanced CMOS and beyond-CMOS devices and circuits\nIP: \n                  Juan Núñez Martínez",
+    "principal_investigator": "CRYPTOHARDWEAR\n\nSoluciones hardware para afrontar los nuevos retos criptográficos de dispositivos wearables\n \n                  Iluminada Baturone Castillo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=218"
+  },
+  {
+    "title": "RESURGENCE - CRYPTOHARDWEAR\n\nSoluciones hardware para afrontar los nuevos retos criptográficos de dispositivos wearables\nIP: \n                  Iluminada Baturone Castillo",
+    "description": "CRYPTOHARDWEAR\n\nSoluciones hardware para afrontar los nuevos retos criptográficos de dispositivos wearables\nIP: \n                  Iluminada Baturone Castillo",
+    "principal_investigator": "SPADARCH\n\nFlexible SPAD-Based CMOS Chip Architectures for Time Correlated Single Photon Counting\n \n                  Juan A. Leñero Bardallo",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=219"
+  },
+  {
+    "title": "CRYPTOHARDWEAR - SPADARCH\n\nFlexible SPAD-Based CMOS Chip Architectures for Time Correlated Single Photon Counting\nIP: \n                  Juan A. Leñero Bardallo",
+    "description": "SPADARCH\n\nFlexible SPAD-Based CMOS Chip Architectures for Time Correlated Single Photon Counting\nIP: \n                  Juan A. Leñero Bardallo",
+    "principal_investigator": "NEURO-RADIO\n\nRadio cognitiva embebida con aprendizaje neuronal\n \n                  Luis A. Camuñas Mesa",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=199"
+  },
+  {
+    "title": "SPADARCH - NEURO-RADIO\n\nRadio cognitiva embebida con aprendizaje neuronal\nIP: \n                  Luis A. Camuñas Mesa",
+    "description": "NEURO-RADIO\n\nRadio cognitiva embebida con aprendizaje neuronal\nIP: \n                  Luis A. Camuñas Mesa",
+    "principal_investigator": "INFRAESTRUCTURA 5169\n\nActualización de la infraestructura de red de comunicaciones en el Instituto de Microelectrónica de Sevilla\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=198"
+  },
+  {
+    "title": "NEURO-RADIO - INFRAESTRUCTURA 5169\n\nActualización de la infraestructura de red de comunicaciones en el Instituto de Microelectrónica de Sevilla\nIP: \n                  Bernabé Linares Barranco",
+    "description": "INFRAESTRUCTURA 5169\n\nActualización de la infraestructura de red de comunicaciones en el Instituto de Microelectrónica de Sevilla\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "COGNITIO\n\nDiseño de interfaces cognitivas para dispositivos IoT con inteligencia artificial\n \n                  José M. de la Rosa Utrera",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=200"
+  },
+  {
+    "title": "INFRAESTRUCTURA 5169 - COGNITIO\n\nDiseño de interfaces cognitivas para dispositivos IoT con inteligencia artificial\nIP: \n                  José M. de la Rosa Utrera",
+    "description": "COGNITIO\n\nDiseño de interfaces cognitivas para dispositivos IoT con inteligencia artificial\nIP: \n                  José M. de la Rosa Utrera",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=209"
+  },
+  {
+    "title": "PEROSPIKER - DECIDE\n\nDemocratizing European Chip Innovation and Design Ecosystem\nIP: \n                  Macarena C. Martínez Rodríguez",
+    "description": "DECIDE\n\nDemocratizing European Chip Innovation and Design Ecosystem\nIP: \n                  Macarena C. Martínez Rodríguez",
+    "principal_investigator": "ARCHYTAS\n\nARCHitectures based on unconventional accelerators for dependable/energY efficienT AI Systems\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=239"
+  },
+  {
+    "title": "DECIDE - ARCHYTAS\n\nARCHitectures based on unconventional accelerators for dependable/energY efficienT AI Systems\nIP: \n                  Bernabé Linares Barranco",
+    "description": "ARCHYTAS\n\nARCHitectures based on unconventional accelerators for dependable/energY efficienT AI Systems\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "QUBIP \n\nQuantum-oriented Update to Browsers and Infrastructures for the PQ Transition\n \n                  Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=269"
+  },
+  {
+    "title": "ARCHYTAS - QUBIP \n\nQuantum-oriented Update to Browsers and Infrastructures for the PQ Transition\nIP: \n                  Piedad Brox Jiménez",
+    "description": "QUBIP \n\nQuantum-oriented Update to Browsers and Infrastructures for the PQ Transition\nIP: \n                  Piedad Brox Jiménez",
+    "principal_investigator": "CROSSBRAIN\n\nDistributed and federated cross-modality actuation through advanced nanomaterials and neuromorphic learning\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=265"
+  },
+  {
+    "title": "QUBIP - CROSSBRAIN\n\nDistributed and federated cross-modality actuation through advanced nanomaterials and neuromorphic learning\nIP: \n                  Bernabé Linares Barranco",
+    "description": "CROSSBRAIN\n\nDistributed and federated cross-modality actuation through advanced nanomaterials and neuromorphic learning\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "SQPRIM\n\nSecure post-quantum cryptographic primitives\n \n                  Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=237"
+  },
+  {
+    "title": "CROSSBRAIN - SQPRIM\n\nSecure post-quantum cryptographic primitives\nIP: \n                  Piedad Brox Jiménez",
+    "description": "SQPRIM\n\nSecure post-quantum cryptographic primitives\nIP: \n                  Piedad Brox Jiménez",
+    "principal_investigator": "GOIT\n\nGo It!\n \n                  Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=235"
+  },
+  {
+    "title": "SQPRIM - GOIT\n\nGo It!\nIP: \n                  Piedad Brox Jiménez",
+    "description": "GOIT\n\nGo It!\nIP: \n                  Piedad Brox Jiménez",
+    "principal_investigator": "NIMBLE AI\n\nUltra-energy efficient and secure neuromorphic sensing and processing at the endpoint\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=238"
+  },
+  {
+    "title": "GOIT - NIMBLE AI\n\nUltra-energy efficient and secure neuromorphic sensing and processing at the endpoint\nIP: \n                  Bernabé Linares Barranco",
+    "description": "NIMBLE AI\n\nUltra-energy efficient and secure neuromorphic sensing and processing at the endpoint\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "SPINAGE\n\nWeighted Spintronic-Nano-Oscillator-based Neuromorphic Computing System Assisted by laser for Cognitive Computing\n \n                  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=223"
+  },
+  {
+    "title": "NIMBLE AI - SPINAGE\n\nWeighted Spintronic-Nano-Oscillator-based Neuromorphic Computing System Assisted by laser for Cognitive Computing\nIP: \n                  Teresa Serrano Gotarredona",
+    "description": "SPINAGE\n\nWeighted Spintronic-Nano-Oscillator-based Neuromorphic Computing System Assisted by laser for Cognitive Computing\nIP: \n                  Teresa Serrano Gotarredona",
+    "principal_investigator": "SPIRS\n\nSecure Platform for ICT Systems Rooted at the Silicon Manufacturing Process\n \n                  Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=234"
+  },
+  {
+    "title": "SPINAGE - SPIRS\n\nSecure Platform for ICT Systems Rooted at the Silicon Manufacturing Process\nIP: \n                  Piedad Brox Jiménez",
+    "description": "SPIRS\n\nSecure Platform for ICT Systems Rooted at the Silicon Manufacturing Process\nIP: \n                  Piedad Brox Jiménez",
+    "principal_investigator": "APPROVIS3D\n\nAnalog PROcessing of bioinspired VIsion Sensors for 3D reconstruction\n \n                  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=195"
+  },
+  {
+    "title": "SPIRS - APPROVIS3D\n\nAnalog PROcessing of bioinspired VIsion Sensors for 3D reconstruction\nIP: \n                  Teresa Serrano Gotarredona",
+    "description": "APPROVIS3D\n\nAnalog PROcessing of bioinspired VIsion Sensors for 3D reconstruction\nIP: \n                  Teresa Serrano Gotarredona",
+    "principal_investigator": "HERMES\n\nHybrid Enhanced Regenerative Medicine Systems\n \n                  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=212"
+  },
+  {
+    "title": "APPROVIS3D - HERMES\n\nHybrid Enhanced Regenerative Medicine Systems\nIP: \n                  Teresa Serrano Gotarredona",
+    "description": "HERMES\n\nHybrid Enhanced Regenerative Medicine Systems\nIP: \n                  Teresa Serrano Gotarredona",
+    "principal_investigator": "NEURONN\n\nTwo-Dimensional Oscillatory Neural Networks for Energy Efficent Neuromorphic Computing\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=196"
+  },
+  {
+    "title": "HERMES - NEURONN\n\nTwo-Dimensional Oscillatory Neural Networks for Energy Efficent Neuromorphic Computing\nIP: \n                  Bernabé Linares Barranco",
+    "description": "NEURONN\n\nTwo-Dimensional Oscillatory Neural Networks for Energy Efficent Neuromorphic Computing\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "MEM-SCALES\n\nMemory technologies with multi-scale time constants for neuromorphic architectures\n \n                  Bernabé Linares Barranco",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=179"
+  },
+  {
+    "title": "NEURONN - MEM-SCALES\n\nMemory technologies with multi-scale time constants for neuromorphic architectures\nIP: \n                  Bernabé Linares Barranco",
+    "description": "MEM-SCALES\n\nMemory technologies with multi-scale time constants for neuromorphic architectures\nIP: \n                  Bernabé Linares Barranco",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=193"
+  },
+  {
+    "title": "MOMENTUM BLB - DORAITO\n\nDesarrollo de Técnicas de IA para el Diseño, Optimización y Operación Autónoma de Interfaces RF-a-Digital en Dispositivos IoT\nIP: \n                  Gustavo Liñán Cembrano",
+    "description": "DORAITO\n\nDesarrollo de Técnicas de IA para el Diseño, Optimización y Operación Autónoma de Interfaces RF-a-Digital en Dispositivos IoT\nIP: \n                  Gustavo Liñán Cembrano",
+    "principal_investigator": "DEEP-MaX-IMSE\n\nMarco de Autoevaluación y Evaluación de Excelencia Científica y Social - IMSE\n \n                  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=266"
+  },
+  {
+    "title": "DORAITO - DEEP-MaX-IMSE\n\nMarco de Autoevaluación y Evaluación de Excelencia Científica y Social - IMSE\nIP: \n                  Teresa Serrano Gotarredona",
+    "description": "DEEP-MaX-IMSE\n\nMarco de Autoevaluación y Evaluación de Excelencia Científica y Social - IMSE\nIP: \n                  Teresa Serrano Gotarredona",
+    "principal_investigator": "ELEVATE\n\nEstrategia de Optimización y Fortalecimiento de la Oficina de Proyectos en el Instituto de Microelectrónica de Sevilla\n \n                  Teresa Serrano Gotarredona",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=267"
+  },
+  {
+    "title": "DEEP-MaX-IMSE - ELEVATE\n\nEstrategia de Optimización y Fortalecimiento de la Oficina de Proyectos en el Instituto de Microelectrónica de Sevilla\nIP: \n                  Teresa Serrano Gotarredona",
+    "description": "ELEVATE\n\nEstrategia de Optimización y Fortalecimiento de la Oficina de Proyectos en el Instituto de Microelectrónica de Sevilla\nIP: \n                  Teresa Serrano Gotarredona",
+    "principal_investigator": "TECHNOQUANTUM\n\nHardware-based Technologies to Secure Digital Systems in the Quantum World\n \n                  Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=270"
+  },
+  {
+    "title": "ELEVATE - TECHNOQUANTUM\n\nHardware-based Technologies to Secure Digital Systems in the Quantum World\nIP: \n                  Piedad Brox Jiménez",
+    "description": "TECHNOQUANTUM\n\nHardware-based Technologies to Secure Digital Systems in the Quantum World\nIP: \n                  Piedad Brox Jiménez",
+    "principal_investigator": "ICOOP-2022\n\nTransferencia a universidades cubanas de tecnologías avanzadas de diseño de sistemas embebidos para el fortalecimiento de las capacidades de innovación y de formación postgraduada\n \n                  Piedad Brox Jiménez",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=254"
+  },
+  {
+    "title": "TECHNOQUANTUM - ICOOP-2022\n\nTransferencia a universidades cubanas de tecnologías avanzadas de diseño de sistemas embebidos para el fortalecimiento de las capacidades de innovación y de formación postgraduada\nIP: \n                  Piedad Brox Jiménez",
+    "description": "ICOOP-2022\n\nTransferencia a universidades cubanas de tecnologías avanzadas de diseño de sistemas embebidos para el fortalecimiento de las capacidades de innovación y de formación postgraduada\nIP: \n                  Piedad Brox Jiménez",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=268"
+  },
+  {
+    "title": "Analog Signal Processing - Digital Signal Processing & VLSI Systems",
+    "description": "Digital Signal Processing & VLSI Systems",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/areas/analog-sp.php"
+  },
+  {
+    "title": "Digital Signal Processing & VLSI Systems - Brain-Inspired Neural Networks and Artificial Intelligence",
+    "description": "Brain-Inspired Neural Networks and Artificial Intelligence",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/areas/digital-spvs.php"
+  },
+  {
+    "title": "Brain-Inspired Neural Networks and Artificial Intelligence - Sensory & Photonic Vision Systems",
+    "description": "Sensory & Photonic Vision Systems",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/areas/brain-innai.php"
+  },
+  {
+    "title": "Sensory & Photonic Vision Systems - Nanoelectronics and Emerging Technologies",
+    "description": "Nanoelectronics and Emerging Technologies",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/areas/sensory-pvs.php"
+  },
+  {
+    "title": "Nanoelectronics and Emerging Technologies - Biomedical and Bioinspired Circuits and Systems",
+    "description": "Biomedical and Bioinspired Circuits and Systems",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/areas/nanoelectronics-et.php"
+  },
+  {
+    "title": "Biomedical and Bioinspired Circuits and Systems - Integrated Circuits for Space Applications",
+    "description": "Integrated Circuits for Space Applications",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/areas/biomedical-bcs.php"
+  },
+  {
+    "title": "Laboratorio de Caracterización de Dispositivos - Laboratorio de Optoelectrónica",
+    "description": "Laboratorio de Optoelectrónica",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/caracterizacion.php"
+  },
+  {
+    "title": "Laboratorio de Optoelectrónica - Laboratorio de Radiofrecuencia",
+    "description": "Laboratorio de Radiofrecuencia",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/optoelectronica.php"
+  },
+  {
+    "title": "Laboratorio de Radiofrecuencia - Laboratorio de Medidas Analógico/Digitales",
+    "description": "Laboratorio de Medidas Analógico/Digitales",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/radiofrecuencia.php"
+  },
+  {
+    "title": "Laboratorio de Medidas Analógico/Digitales - Laboratorio de Láser Pulsado",
+    "description": "Laboratorio de Láser Pulsado",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/medidas-ad.php"
+  },
+  {
+    "title": "Laboratorio de Láser Pulsado - Laboratorio de Ciberseguridad del Hardware",
+    "description": "Laboratorio de Ciberseguridad del Hardware",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/laser-pulsado.php"
+  },
+  {
+    "title": "Laboratorio de Ciberseguridad del Hardware - Laboratorio de Sistemas Complejos",
+    "description": "Laboratorio de Sistemas Complejos",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/ciberseguridad.php"
+  },
+  {
+    "title": "ATE Agilent 93000 - Taller de Montajes Especiales",
+    "description": "Taller de Montajes Especiales",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/agilent-93k.php"
+  },
+  {
+    "title": "Taller de Montajes Especiales - Taller de Encapsulado",
+    "description": "Taller de Encapsulado",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/montajes-especiales.php"
+  },
+  {
+    "title": "Taller de Encapsulado - Taller de Mecanización y Montaje de PCBs",
+    "description": "Taller de Mecanización y Montaje de PCBs",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/laboratorios/encapsulado.php"
+  },
+  {
+    "title": "Hspice - Agilent Advanced Design System",
+    "description": "Agilent Advanced Design System",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/es/herramientas-cad.php"
+  },
+  {
+    "title": "info » - ContactoCondiciones de usofactura-e",
+    "description": "ContactoCondiciones de usofactura-e",
+    "principal_investigator": "",
+    "period": "",
+    "funding": "",
+    "url": "http://www.imse-cnm.csic.es/includes/ofml.php"
   }
 ]

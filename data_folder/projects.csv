@@ -1,9 +1,846 @@
-description,funding,period,title,url
-,,,Áreas de Investigación,http://www.imse-cnm.csic.es/index.php/en/projects
-,,,11 de febrero - Día Internacional de la Mujer y la Niña en la Ciencia,http://www.imse-cnm.csic.es/index.php/en/projects
-LEER MÁS,,,Nueva Directora del IMSE-CNM,http://www.imse-cnm.csic.es/index.php/en/projects
-LEER MÁS,,,Formación en el IMSE,http://www.imse-cnm.csic.es/index.php/en/projects
-,,,Publicaciones recientes,http://www.imse-cnm.csic.es/index.php/en/projects
-,,,Video institucional del IMSE,http://www.imse-cnm.csic.es/index.php/en/projects
-"El área de especialización del Instituto es el diseño de circuitos integrados analógicos y de señal mixta en tecnología CMOS, así como su uso en diferentes contextos de aplicación tales como dispositivos biomédicos, comunicaciones inalámbricas, conversión de datos, sensores de visión inteligentes, ciberseguridad, computación neuromórfica y tecnología espacial. La plantilla del IMSE-CNM está formada por unas cien personas, entre personal científico y de apoyo, que participan en el avance del conocimiento, la generación de diseños de alto nivel científico-técnico y la transferencia de tecnología. LEER MÁS",,,Qué hacemos en el IMSE,http://www.imse-cnm.csic.es/index.php/en/projects
-,,,Webs relacionadas con el IMSE,http://www.imse-cnm.csic.es/index.php/en/projects
+description,funding,period,principal_investigator,title,url
+"SOBRE EL IMSE
+
+Introducción
+Cómo llegar
+Organización
+Personal
+
+Visitas al IMSE
+El IMSE en los medios
+Memoria 2020
+
+Contacto",,,,"INICIO - SOBRE EL IMSE
+
+Introducción
+Cómo llegar
+Organización
+Personal
+
+Visitas al IMSE
+El IMSE en los medios
+Memoria 2020
+
+Contacto",http://www.imse-cnm.csic.es/index.php
+"RECURSOS
+
+Laboratorios
+Herramientas CAD
+Catálogo de Servicios Científico-Técnicos
+Copias de respaldo",,,,"SOBRE EL IMSE - RECURSOS
+
+Laboratorios
+Herramientas CAD
+Catálogo de Servicios Científico-Técnicos
+Copias de respaldo",http://www.imse-cnm.csic.es/es/proyectos.php
+"INVESTIGACIÓN
+
+Áreas y Líneas de Investigación
+Proyectos
+Publicaciones del IMSE
+Catálogo de ICs
+
+Grupos de Investigación",,,,"RECURSOS - INVESTIGACIÓN
+
+Áreas y Líneas de Investigación
+Proyectos
+Publicaciones del IMSE
+Catálogo de ICs
+
+Grupos de Investigación",http://www.imse-cnm.csic.es/es/proyectos.php
+TRANSFERENCIA TECNOLÓGICA,,,,INVESTIGACIÓN - TRANSFERENCIA TECNOLÓGICA,http://www.imse-cnm.csic.es/es/proyectos.php
+"EMPLEO Y FORMACIÓN
+
+Formación en el IMSE
+Empleo en el IMSE
+Ofertas de Acogidas en el IMSE
+Empleo en la Universidad de Sevilla
+Empleo en el CSIC",,,,"TRANSFERENCIA TECNOLÓGICA - EMPLEO Y FORMACIÓN
+
+Formación en el IMSE
+Empleo en el IMSE
+Ofertas de Acogidas en el IMSE
+Empleo en la Universidad de Sevilla
+Empleo en el CSIC",http://www2.imse-cnm.csic.es/transferencia/
+Colaboración Internacional,,,,Unión Europea - Colaboración Internacional,http://www.imse-cnm.csic.es/es/proyectos/proyectos-europeos.php
+"HIGHLOAWALLET
+
+Técnicas cripto-biométricas y soluciones hardware para carteras de identidades auto-soberanas con alto nivel de seguridad
+IP: 
+				  Iluminada Baturone Castillo",,,"ELIXIR
+
+Mejora de la percepción visual con una nueva generación de sensores infrarrojos de visión inteligentes
+ 
+				  Juan A. Leñero Bardallo","Euphoric - HIGHLOAWALLET
+
+Técnicas cripto-biométricas y soluciones hardware para carteras de identidades auto-soberanas con alto nivel de seguridad
+IP: 
+				  Iluminada Baturone Castillo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=262
+"ELIXIR
+
+Mejora de la percepción visual con una nueva generación de sensores infrarrojos de visión inteligentes
+IP: 
+				  Juan A. Leñero Bardallo",,,"TIRELESS
+
+Fiabilidad, seguridad y eficiencia energética en dispositivos y circuitos electrónicos para IoT edge
+ 
+				  Francisco V. Fernández Fernández","HIGHLOAWALLET - ELIXIR
+
+Mejora de la percepción visual con una nueva generación de sensores infrarrojos de visión inteligentes
+IP: 
+				  Juan A. Leñero Bardallo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=261
+"TIRELESS
+
+Fiabilidad, seguridad y eficiencia energética en dispositivos y circuitos electrónicos para IoT edge
+IP: 
+				  Francisco V. Fernández Fernández",,,"SiP-SEXI
+
+Systems in Package for Space Exploration Instrumentation
+ 
+				  Diego Vázquez García de la Vega","ELIXIR - TIRELESS
+
+Fiabilidad, seguridad y eficiencia energética en dispositivos y circuitos electrónicos para IoT edge
+IP: 
+				  Francisco V. Fernández Fernández",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=260
+"SiP-SEXI
+
+Systems in Package for Space Exploration Instrumentation
+IP: 
+				  Diego Vázquez García de la Vega",,,"RADIAN
+
+Interfaces radiofrecuencia/digital gestionadas por redes neuronales artificiales
+ 
+				  José M. de la Rosa Utrera","TIRELESS - SiP-SEXI
+
+Systems in Package for Space Exploration Instrumentation
+IP: 
+				  Diego Vázquez García de la Vega",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=245
+"RADIAN
+
+Interfaces radiofrecuencia/digital gestionadas por redes neuronales artificiales
+IP: 
+				  José M. de la Rosa Utrera",,,"VIPS-ID
+
+Identificación Segura, Distribuida, Privada y Verificable de Personas y Cosas
+ 
+				  Iluminada Baturone Castillo","SiP-SEXI - RADIAN
+
+Interfaces radiofrecuencia/digital gestionadas por redes neuronales artificiales
+IP: 
+				  José M. de la Rosa Utrera",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=244
+"VIPS-ID
+
+Identificación Segura, Distribuida, Privada y Verificable de Personas y Cosas
+IP: 
+				  Iluminada Baturone Castillo",,,"Hard-ID-wallet
+
+Prueba de concepto de soluciones de seguridad hardware requeridas por la criptografía y biometría de carteras de identidades digitales
+ 
+				  Iluminada Baturone Castillo","RADIAN - VIPS-ID
+
+Identificación Segura, Distribuida, Privada y Verificable de Personas y Cosas
+IP: 
+				  Iluminada Baturone Castillo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=243
+"Hard-ID-wallet
+
+Prueba de concepto de soluciones de seguridad hardware requeridas por la criptografía y biometría de carteras de identidades digitales
+IP: 
+				  Iluminada Baturone Castillo",,,"SEMIoTICS
+
+Inteligencia embebida en sensores y sistemas de visión de bajo consumo y operación de largo término
+ 
+				  Ricardo Carmona Galán / Jorge Fernández Berni","VIPS-ID - Hard-ID-wallet
+
+Prueba de concepto de soluciones de seguridad hardware requeridas por la criptografía y biometría de carteras de identidades digitales
+IP: 
+				  Iluminada Baturone Castillo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=242
+"SEMIoTICS
+
+Inteligencia embebida en sensores y sistemas de visión de bajo consumo y operación de largo término
+IP: 
+				  Ricardo Carmona Galán / Jorge Fernández Berni",,,"ASIC-IMTER
+
+ASIC Prueba de concepto para medidas de impedancias térmicas en el dominio de la frecuencia
+ 
+				  Servando Espejo Meana","Hard-ID-wallet - SEMIoTICS
+
+Inteligencia embebida en sensores y sistemas de visión de bajo consumo y operación de largo término
+IP: 
+				  Ricardo Carmona Galán / Jorge Fernández Berni",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=247
+"ASIC-IMTER
+
+ASIC Prueba de concepto para medidas de impedancias térmicas en el dominio de la frecuencia
+IP: 
+				  Servando Espejo Meana",,,"FEMPS
+
+Microelectrónica de Front-End para Sensores Planetarios
+ 
+				  Servando Espejo Meana","SEMIoTICS - ASIC-IMTER
+
+ASIC Prueba de concepto para medidas de impedancias térmicas en el dominio de la frecuencia
+IP: 
+				  Servando Espejo Meana",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=221
+"FEMPS
+
+Microelectrónica de Front-End para Sensores Planetarios
+IP: 
+				  Servando Espejo Meana",,,"ARES
+
+Diseño, implementación y validación de raíces de confianza hardware resistentes a ataques para sistemas empotrados seguros
+ 
+				  Carlos J. Jiménez Fernández / Piedad Brox Jiménez","ASIC-IMTER - FEMPS
+
+Microelectrónica de Front-End para Sensores Planetarios
+IP: 
+				  Servando Espejo Meana",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=246
+"ARES
+
+Diseño, implementación y validación de raíces de confianza hardware resistentes a ataques para sistemas empotrados seguros
+IP: 
+				  Carlos J. Jiménez Fernández / Piedad Brox Jiménez",,,"SARATSO
+
+Auto-optimización de la temporización asíncrona para convertidores de tipo SAR
+ 
+				  Gildas Léger","FEMPS - ARES
+
+Diseño, implementación y validación de raíces de confianza hardware resistentes a ataques para sistemas empotrados seguros
+IP: 
+				  Carlos J. Jiménez Fernández / Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=227
+"SARATSO
+
+Auto-optimización de la temporización asíncrona para convertidores de tipo SAR
+IP: 
+				  Gildas Léger",,,"DIGISOLAR F2
+
+Nuevo sensor solar digital asíncrono para aplicaciones newspace con arquitectura basada en eventos, fase 2
+ 
+				  Juan A. Leñero Bardallo","ARES - SARATSO
+
+Auto-optimización de la temporización asíncrona para convertidores de tipo SAR
+IP: 
+				  Gildas Léger",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=211
+"DIGISOLAR F2
+
+Nuevo sensor solar digital asíncrono para aplicaciones newspace con arquitectura basada en eventos, fase 2
+IP: 
+				  Juan A. Leñero Bardallo",,,"AIR-CHIP
+
+Chip digitalizador de radiofrecuencia gestionado por algoritmos de inteligencia artificial
+ 
+				  José M. de la Rosa Utrera","SARATSO - DIGISOLAR F2
+
+Nuevo sensor solar digital asíncrono para aplicaciones newspace con arquitectura basada en eventos, fase 2
+IP: 
+				  Juan A. Leñero Bardallo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=250
+"AIR-CHIP
+
+Chip digitalizador de radiofrecuencia gestionado por algoritmos de inteligencia artificial
+IP: 
+				  José M. de la Rosa Utrera",,,"MEMVIS
+
+Hardware memristivo neuromorfico para reconocimiento de visión
+ 
+				  Teresa Serrano Gotarredona","DIGISOLAR F2 - AIR-CHIP
+
+Chip digitalizador de radiofrecuencia gestionado por algoritmos de inteligencia artificial
+IP: 
+				  José M. de la Rosa Utrera",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=264
+"MEMVIS
+
+Hardware memristivo neuromorfico para reconocimiento de visión
+IP: 
+				  Teresa Serrano Gotarredona",,,"E-CELL
+
+Optimización de los procesos de diferenciacion en celulas madre y tumorales basada en electroestimulación
+ 
+				  Alberto Yúfera García","AIR-CHIP - MEMVIS
+
+Hardware memristivo neuromorfico para reconocimiento de visión
+IP: 
+				  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=248
+"E-CELL
+
+Optimización de los procesos de diferenciacion en celulas madre y tumorales basada en electroestimulación
+IP: 
+				  Alberto Yúfera García",,,"SMARTRANS
+
+SMART integrated components for the development of intelligent vehicles and TRANSportation insfrastructure
+ 
+				  Ricardo Carmona Galán","MEMVIS - E-CELL
+
+Optimización de los procesos de diferenciacion en celulas madre y tumorales basada en electroestimulación
+IP: 
+				  Alberto Yúfera García",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=249
+"SMARTRANS
+
+SMART integrated components for the development of intelligent vehicles and TRANSportation insfrastructure
+IP: 
+				  Ricardo Carmona Galán",,,"AEROSKIN
+
+Smart Skin for Airflow Sensing
+ 
+				  Servando Espejo Meana","E-CELL - SMARTRANS
+
+SMART integrated components for the development of intelligent vehicles and TRANSportation insfrastructure
+IP: 
+				  Ricardo Carmona Galán",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=222
+"AEROSKIN
+
+Smart Skin for Airflow Sensing
+IP: 
+				  Servando Espejo Meana",,,"HARDWALLET
+
+Hardware de confianza y con seguridad post-cuántica para carteras de identidades descentralizadas que usan rasgos distintivos de personas y dispositivos
+ 
+				  Iluminada Baturone Castillo / M. Rosario Arjona López","SMARTRANS - AEROSKIN
+
+Smart Skin for Airflow Sensing
+IP: 
+				  Servando Espejo Meana",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=240
+"HARDWALLET
+
+Hardware de confianza y con seguridad post-cuántica para carteras de identidades descentralizadas que usan rasgos distintivos de personas y dispositivos
+IP: 
+				  Iluminada Baturone Castillo / M. Rosario Arjona López",,,"ULTIMATE
+
+Plataforma embebida multi-sensorial inteligente para monitorización avanzada de la naturaleza
+ 
+				  Jorge Fernández Berni / Ricardo Carmona Galán","AEROSKIN - HARDWALLET
+
+Hardware de confianza y con seguridad post-cuántica para carteras de identidades descentralizadas que usan rasgos distintivos de personas y dispositivos
+IP: 
+				  Iluminada Baturone Castillo / M. Rosario Arjona López",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=226
+"ULTIMATE
+
+Plataforma embebida multi-sensorial inteligente para monitorización avanzada de la naturaleza
+IP: 
+				  Jorge Fernández Berni / Ricardo Carmona Galán",,,"LIFELINE
+
+Variabilidad temporal en circuitos integrados: enemigo (y como combatirlo para la economia circular) y amigo (y como explotarlo para una solucion disruptiva en ciberseguridad)
+ 
+				  Rafael Castro López / Francisco V. Fernández Fernández","HARDWALLET - ULTIMATE
+
+Plataforma embebida multi-sensorial inteligente para monitorización avanzada de la naturaleza
+IP: 
+				  Jorge Fernández Berni / Ricardo Carmona Galán",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=214
+"LIFELINE
+
+Variabilidad temporal en circuitos integrados: enemigo (y como combatirlo para la economia circular) y amigo (y como explotarlo para una solucion disruptiva en ciberseguridad)
+IP: 
+				  Rafael Castro López / Francisco V. Fernández Fernández",,,"NANO-MEM
+
+Cognición Nano-Memristiva y Percepción Neuromórficas para Actuación Robótica de Alta Velocidad
+ 
+				  Teresa Serrano Gotarredona","ULTIMATE - LIFELINE
+
+Variabilidad temporal en circuitos integrados: enemigo (y como combatirlo para la economia circular) y amigo (y como explotarlo para una solucion disruptiva en ciberseguridad)
+IP: 
+				  Rafael Castro López / Francisco V. Fernández Fernández",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=228
+"NANO-MEM
+
+Cognición Nano-Memristiva y Percepción Neuromórficas para Actuación Robótica de Alta Velocidad
+IP: 
+				  Teresa Serrano Gotarredona",,,"MIRABRAS
+
+Implante milimétrico con inteligencia artificial integrada para asistencia en desórdenes neurológicos
+ 
+				  Manuel Delgado Restituto","LIFELINE - NANO-MEM
+
+Cognición Nano-Memristiva y Percepción Neuromórficas para Actuación Robótica de Alta Velocidad
+IP: 
+				  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=229
+"MIRABRAS
+
+Implante milimétrico con inteligencia artificial integrada para asistencia en desórdenes neurológicos
+IP: 
+				  Manuel Delgado Restituto",,,"VIGILANT
+
+The Variability Challenge in Nano-CMOS: From Device Modeling to IC Design for Mitigation and Exploitation
+ 
+				  Francisco V. Fernández Fernández / Rafael Castro López","NANO-MEM - MIRABRAS
+
+Implante milimétrico con inteligencia artificial integrada para asistencia en desórdenes neurológicos
+IP: 
+				  Manuel Delgado Restituto",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=203
+"VIGILANT
+
+The Variability Challenge in Nano-CMOS: From Device Modeling to IC Design for Mitigation and Exploitation
+IP: 
+				  Francisco V. Fernández Fernández / Rafael Castro López",,,"DIGISOLAR
+
+Nuevo sensor solar digital asíncrono para aplicaciones NewSpace con arquitectura basada en eventos
+ 
+				  Juan A. Leñero Bardallo","MIRABRAS - VIGILANT
+
+The Variability Challenge in Nano-CMOS: From Device Modeling to IC Design for Mitigation and Exploitation
+IP: 
+				  Francisco V. Fernández Fernández / Rafael Castro López",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=205
+"DIGISOLAR
+
+Nuevo sensor solar digital asíncrono para aplicaciones NewSpace con arquitectura basada en eventos
+IP: 
+				  Juan A. Leñero Bardallo",,,"CORDION
+
+Digitalizadores basados en Radio Cognitiva para nodos loT
+ 
+				  José M. de la Rosa Utrera","VIGILANT - DIGISOLAR
+
+Nuevo sensor solar digital asíncrono para aplicaciones NewSpace con arquitectura basada en eventos
+IP: 
+				  Juan A. Leñero Bardallo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=204
+"CORDION
+
+Digitalizadores basados en Radio Cognitiva para nodos loT
+IP: 
+				  José M. de la Rosa Utrera",,,"MAS+CARA
+
+Prueba de concepto de un esquema de reconocimiento facial descentralizado, que ofrece privacidad y seguridad post-cuántica
+ 
+				  Iluminada Baturone Castillo","DIGISOLAR - CORDION
+
+Digitalizadores basados en Radio Cognitiva para nodos loT
+IP: 
+				  José M. de la Rosa Utrera",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=231
+"MAS+CARA
+
+Prueba de concepto de un esquema de reconocimiento facial descentralizado, que ofrece privacidad y seguridad post-cuántica
+IP: 
+				  Iluminada Baturone Castillo",,,"ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO
+
+Actualización  de  las  prestaciones  de  analisis  y  generación  de  señal  para  los  retos  del   proximo salto tecnológico en micro y nano-electrónica.
+ 
+				  Bernabé Linares Barranco","CORDION - MAS+CARA
+
+Prueba de concepto de un esquema de reconocimiento facial descentralizado, que ofrece privacidad y seguridad post-cuántica
+IP: 
+				  Iluminada Baturone Castillo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=206
+"ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO
+
+Actualización  de  las  prestaciones  de  analisis  y  generación  de  señal  para  los  retos  del   proximo salto tecnológico en micro y nano-electrónica.
+IP: 
+				  Bernabé Linares Barranco",,,"ENVISAGE
+
+Tecnologias de vision habilitantes para transporte inteligente integrado
+ 
+				  Ricardo Carmona Galán / Jorge Fernández Berni","MAS+CARA - ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO
+
+Actualización  de  las  prestaciones  de  analisis  y  generación  de  señal  para  los  retos  del   proximo salto tecnológico en micro y nano-electrónica.
+IP: 
+				  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=217
+"ENVISAGE
+
+Tecnologias de vision habilitantes para transporte inteligente integrado
+IP: 
+				  Ricardo Carmona Galán / Jorge Fernández Berni",,,,"ADQUISICIÓN  DE  EQUIPAMIENTO  CIENTÍFICO-TÉCNICO - ENVISAGE
+
+Tecnologias de vision habilitantes para transporte inteligente integrado
+IP: 
+				  Ricardo Carmona Galán / Jorge Fernández Berni",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=220
+"RTN SECURE
+
+Explotación del RTN para seguridad hardware resistente al envejecimiento
+IP: 
+                  Elisenda Roca Moreno",,,"BIOVEO
+
+Sistema hardware nano/CMOS de reconocimiento de objetos BIOinspirado con Visión E-fOveal
+ 
+                  Bernabé Linares Barranco","Programa Investigo - RTN SECURE
+
+Explotación del RTN para seguridad hardware resistente al envejecimiento
+IP: 
+                  Elisenda Roca Moreno",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=241
+"BIOVEO
+
+Sistema hardware nano/CMOS de reconocimiento de objetos BIOinspirado con Visión E-fOveal
+IP: 
+                  Bernabé Linares Barranco",,,"PRECLI-HF
+
+PRototipado y Ensayo CLÍnico del nuevo dispositivo portátil HF-volum para la monitorización en tiempo real de volúmenes en pacientes con insuficiencia cardiaca
+ 
+                  Alberto Yúfera García","RTN SECURE - BIOVEO
+
+Sistema hardware nano/CMOS de reconocimiento de objetos BIOinspirado con Visión E-fOveal
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=233
+"PRECLI-HF
+
+PRototipado y Ensayo CLÍnico del nuevo dispositivo portátil HF-volum para la monitorización en tiempo real de volúmenes en pacientes con insuficiencia cardiaca
+IP: 
+                  Alberto Yúfera García",,,"SYMAS
+
+Sistema de medida y electroestimulación para aplicaciones de diferenciación y motilidad celular
+ 
+                  Alberto Yúfera García","BIOVEO - PRECLI-HF
+
+PRototipado y Ensayo CLÍnico del nuevo dispositivo portátil HF-volum para la monitorización en tiempo real de volúmenes en pacientes con insuficiencia cardiaca
+IP: 
+                  Alberto Yúfera García",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=232
+"SYMAS
+
+Sistema de medida y electroestimulación para aplicaciones de diferenciación y motilidad celular
+IP: 
+                  Alberto Yúfera García",,,"[NO ACRONYM]
+
+Diseño y Estudio de Mercado de Un Prototipo Industrial de Sensor Solar Asíncrono para El Control de la Actitud en Sistemas de Navegación Espacial
+ 
+                  Juan A. Leñero Bardallo","PRECLI-HF - SYMAS
+
+Sistema de medida y electroestimulación para aplicaciones de diferenciación y motilidad celular
+IP: 
+                  Alberto Yúfera García",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=225
+"[NO ACRONYM]
+
+Diseño y Estudio de Mercado de Un Prototipo Industrial de Sensor Solar Asíncrono para El Control de la Actitud en Sistemas de Navegación Espacial
+IP: 
+                  Juan A. Leñero Bardallo",,,"VERSO
+
+Integración vertical de sensores de imagen con paralelismo embebido
+ 
+                  Juan A. Leñero Bardallo","SYMAS - [NO ACRONYM]
+
+Diseño y Estudio de Mercado de Un Prototipo Industrial de Sensor Solar Asíncrono para El Control de la Actitud en Sistemas de Navegación Espacial
+IP: 
+                  Juan A. Leñero Bardallo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=207
+"VERSO
+
+Integración vertical de sensores de imagen con paralelismo embebido
+IP: 
+                  Juan A. Leñero Bardallo",,,"SCAROT
+
+Side-Channel Attacks on Root of Trust
+ 
+                  Antonio J. Acosta Jiménez","[NO ACRONYM] - VERSO
+
+Integración vertical de sensores de imagen con paralelismo embebido
+IP: 
+                  Juan A. Leñero Bardallo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=224
+"SCAROT
+
+Side-Channel Attacks on Root of Trust
+IP: 
+                  Antonio J. Acosta Jiménez",,,"RESURGENCE 
+
+Power, reliability and security challenges in advanced CMOS and beyond-CMOS devices and circuits
+ 
+                  Juan Núñez Martínez","VERSO - SCAROT
+
+Side-Channel Attacks on Root of Trust
+IP: 
+                  Antonio J. Acosta Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=216
+"RESURGENCE 
+
+Power, reliability and security challenges in advanced CMOS and beyond-CMOS devices and circuits
+IP: 
+                  Juan Núñez Martínez",,,"CRYPTOHARDWEAR
+
+Soluciones hardware para afrontar los nuevos retos criptográficos de dispositivos wearables
+ 
+                  Iluminada Baturone Castillo","SCAROT - RESURGENCE 
+
+Power, reliability and security challenges in advanced CMOS and beyond-CMOS devices and circuits
+IP: 
+                  Juan Núñez Martínez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=218
+"CRYPTOHARDWEAR
+
+Soluciones hardware para afrontar los nuevos retos criptográficos de dispositivos wearables
+IP: 
+                  Iluminada Baturone Castillo",,,"SPADARCH
+
+Flexible SPAD-Based CMOS Chip Architectures for Time Correlated Single Photon Counting
+ 
+                  Juan A. Leñero Bardallo","RESURGENCE - CRYPTOHARDWEAR
+
+Soluciones hardware para afrontar los nuevos retos criptográficos de dispositivos wearables
+IP: 
+                  Iluminada Baturone Castillo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=219
+"SPADARCH
+
+Flexible SPAD-Based CMOS Chip Architectures for Time Correlated Single Photon Counting
+IP: 
+                  Juan A. Leñero Bardallo",,,"NEURO-RADIO
+
+Radio cognitiva embebida con aprendizaje neuronal
+ 
+                  Luis A. Camuñas Mesa","CRYPTOHARDWEAR - SPADARCH
+
+Flexible SPAD-Based CMOS Chip Architectures for Time Correlated Single Photon Counting
+IP: 
+                  Juan A. Leñero Bardallo",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=199
+"NEURO-RADIO
+
+Radio cognitiva embebida con aprendizaje neuronal
+IP: 
+                  Luis A. Camuñas Mesa",,,"INFRAESTRUCTURA 5169
+
+Actualización de la infraestructura de red de comunicaciones en el Instituto de Microelectrónica de Sevilla
+ 
+                  Bernabé Linares Barranco","SPADARCH - NEURO-RADIO
+
+Radio cognitiva embebida con aprendizaje neuronal
+IP: 
+                  Luis A. Camuñas Mesa",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=198
+"INFRAESTRUCTURA 5169
+
+Actualización de la infraestructura de red de comunicaciones en el Instituto de Microelectrónica de Sevilla
+IP: 
+                  Bernabé Linares Barranco",,,"COGNITIO
+
+Diseño de interfaces cognitivas para dispositivos IoT con inteligencia artificial
+ 
+                  José M. de la Rosa Utrera","NEURO-RADIO - INFRAESTRUCTURA 5169
+
+Actualización de la infraestructura de red de comunicaciones en el Instituto de Microelectrónica de Sevilla
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=200
+"COGNITIO
+
+Diseño de interfaces cognitivas para dispositivos IoT con inteligencia artificial
+IP: 
+                  José M. de la Rosa Utrera",,,,"INFRAESTRUCTURA 5169 - COGNITIO
+
+Diseño de interfaces cognitivas para dispositivos IoT con inteligencia artificial
+IP: 
+                  José M. de la Rosa Utrera",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=209
+"DECIDE
+
+Democratizing European Chip Innovation and Design Ecosystem
+IP: 
+                  Macarena C. Martínez Rodríguez",,,"ARCHYTAS
+
+ARCHitectures based on unconventional accelerators for dependable/energY efficienT AI Systems
+ 
+                  Bernabé Linares Barranco","PEROSPIKER - DECIDE
+
+Democratizing European Chip Innovation and Design Ecosystem
+IP: 
+                  Macarena C. Martínez Rodríguez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=239
+"ARCHYTAS
+
+ARCHitectures based on unconventional accelerators for dependable/energY efficienT AI Systems
+IP: 
+                  Bernabé Linares Barranco",,,"QUBIP 
+
+Quantum-oriented Update to Browsers and Infrastructures for the PQ Transition
+ 
+                  Piedad Brox Jiménez","DECIDE - ARCHYTAS
+
+ARCHitectures based on unconventional accelerators for dependable/energY efficienT AI Systems
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=269
+"QUBIP 
+
+Quantum-oriented Update to Browsers and Infrastructures for the PQ Transition
+IP: 
+                  Piedad Brox Jiménez",,,"CROSSBRAIN
+
+Distributed and federated cross-modality actuation through advanced nanomaterials and neuromorphic learning
+ 
+                  Bernabé Linares Barranco","ARCHYTAS - QUBIP 
+
+Quantum-oriented Update to Browsers and Infrastructures for the PQ Transition
+IP: 
+                  Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=265
+"CROSSBRAIN
+
+Distributed and federated cross-modality actuation through advanced nanomaterials and neuromorphic learning
+IP: 
+                  Bernabé Linares Barranco",,,"SQPRIM
+
+Secure post-quantum cryptographic primitives
+ 
+                  Piedad Brox Jiménez","QUBIP - CROSSBRAIN
+
+Distributed and federated cross-modality actuation through advanced nanomaterials and neuromorphic learning
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=237
+"SQPRIM
+
+Secure post-quantum cryptographic primitives
+IP: 
+                  Piedad Brox Jiménez",,,"GOIT
+
+Go It!
+ 
+                  Piedad Brox Jiménez","CROSSBRAIN - SQPRIM
+
+Secure post-quantum cryptographic primitives
+IP: 
+                  Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=235
+"GOIT
+
+Go It!
+IP: 
+                  Piedad Brox Jiménez",,,"NIMBLE AI
+
+Ultra-energy efficient and secure neuromorphic sensing and processing at the endpoint
+ 
+                  Bernabé Linares Barranco","SQPRIM - GOIT
+
+Go It!
+IP: 
+                  Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=238
+"NIMBLE AI
+
+Ultra-energy efficient and secure neuromorphic sensing and processing at the endpoint
+IP: 
+                  Bernabé Linares Barranco",,,"SPINAGE
+
+Weighted Spintronic-Nano-Oscillator-based Neuromorphic Computing System Assisted by laser for Cognitive Computing
+ 
+                  Teresa Serrano Gotarredona","GOIT - NIMBLE AI
+
+Ultra-energy efficient and secure neuromorphic sensing and processing at the endpoint
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=223
+"SPINAGE
+
+Weighted Spintronic-Nano-Oscillator-based Neuromorphic Computing System Assisted by laser for Cognitive Computing
+IP: 
+                  Teresa Serrano Gotarredona",,,"SPIRS
+
+Secure Platform for ICT Systems Rooted at the Silicon Manufacturing Process
+ 
+                  Piedad Brox Jiménez","NIMBLE AI - SPINAGE
+
+Weighted Spintronic-Nano-Oscillator-based Neuromorphic Computing System Assisted by laser for Cognitive Computing
+IP: 
+                  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=234
+"SPIRS
+
+Secure Platform for ICT Systems Rooted at the Silicon Manufacturing Process
+IP: 
+                  Piedad Brox Jiménez",,,"APPROVIS3D
+
+Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction
+ 
+                  Teresa Serrano Gotarredona","SPINAGE - SPIRS
+
+Secure Platform for ICT Systems Rooted at the Silicon Manufacturing Process
+IP: 
+                  Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=195
+"APPROVIS3D
+
+Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction
+IP: 
+                  Teresa Serrano Gotarredona",,,"HERMES
+
+Hybrid Enhanced Regenerative Medicine Systems
+ 
+                  Teresa Serrano Gotarredona","SPIRS - APPROVIS3D
+
+Analog PROcessing of bioinspired VIsion Sensors for 3D reconstruction
+IP: 
+                  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=212
+"HERMES
+
+Hybrid Enhanced Regenerative Medicine Systems
+IP: 
+                  Teresa Serrano Gotarredona",,,"NEURONN
+
+Two-Dimensional Oscillatory Neural Networks for Energy Efficent Neuromorphic Computing
+ 
+                  Bernabé Linares Barranco","APPROVIS3D - HERMES
+
+Hybrid Enhanced Regenerative Medicine Systems
+IP: 
+                  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=196
+"NEURONN
+
+Two-Dimensional Oscillatory Neural Networks for Energy Efficent Neuromorphic Computing
+IP: 
+                  Bernabé Linares Barranco",,,"MEM-SCALES
+
+Memory technologies with multi-scale time constants for neuromorphic architectures
+ 
+                  Bernabé Linares Barranco","HERMES - NEURONN
+
+Two-Dimensional Oscillatory Neural Networks for Energy Efficent Neuromorphic Computing
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=179
+"MEM-SCALES
+
+Memory technologies with multi-scale time constants for neuromorphic architectures
+IP: 
+                  Bernabé Linares Barranco",,,,"NEURONN - MEM-SCALES
+
+Memory technologies with multi-scale time constants for neuromorphic architectures
+IP: 
+                  Bernabé Linares Barranco",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=193
+"DORAITO
+
+Desarrollo de Técnicas de IA para el Diseño, Optimización y Operación Autónoma de Interfaces RF-a-Digital en Dispositivos IoT
+IP: 
+                  Gustavo Liñán Cembrano",,,"DEEP-MaX-IMSE
+
+Marco de Autoevaluación y Evaluación de Excelencia Científica y Social - IMSE
+ 
+                  Teresa Serrano Gotarredona","MOMENTUM BLB - DORAITO
+
+Desarrollo de Técnicas de IA para el Diseño, Optimización y Operación Autónoma de Interfaces RF-a-Digital en Dispositivos IoT
+IP: 
+                  Gustavo Liñán Cembrano",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=266
+"DEEP-MaX-IMSE
+
+Marco de Autoevaluación y Evaluación de Excelencia Científica y Social - IMSE
+IP: 
+                  Teresa Serrano Gotarredona",,,"ELEVATE
+
+Estrategia de Optimización y Fortalecimiento de la Oficina de Proyectos en el Instituto de Microelectrónica de Sevilla
+ 
+                  Teresa Serrano Gotarredona","DORAITO - DEEP-MaX-IMSE
+
+Marco de Autoevaluación y Evaluación de Excelencia Científica y Social - IMSE
+IP: 
+                  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=267
+"ELEVATE
+
+Estrategia de Optimización y Fortalecimiento de la Oficina de Proyectos en el Instituto de Microelectrónica de Sevilla
+IP: 
+                  Teresa Serrano Gotarredona",,,"TECHNOQUANTUM
+
+Hardware-based Technologies to Secure Digital Systems in the Quantum World
+ 
+                  Piedad Brox Jiménez","DEEP-MaX-IMSE - ELEVATE
+
+Estrategia de Optimización y Fortalecimiento de la Oficina de Proyectos en el Instituto de Microelectrónica de Sevilla
+IP: 
+                  Teresa Serrano Gotarredona",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=270
+"TECHNOQUANTUM
+
+Hardware-based Technologies to Secure Digital Systems in the Quantum World
+IP: 
+                  Piedad Brox Jiménez",,,"ICOOP-2022
+
+Transferencia a universidades cubanas de tecnologías avanzadas de diseño de sistemas embebidos para el fortalecimiento de las capacidades de innovación y de formación postgraduada
+ 
+                  Piedad Brox Jiménez","ELEVATE - TECHNOQUANTUM
+
+Hardware-based Technologies to Secure Digital Systems in the Quantum World
+IP: 
+                  Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=254
+"ICOOP-2022
+
+Transferencia a universidades cubanas de tecnologías avanzadas de diseño de sistemas embebidos para el fortalecimiento de las capacidades de innovación y de formación postgraduada
+IP: 
+                  Piedad Brox Jiménez",,,,"TECHNOQUANTUM - ICOOP-2022
+
+Transferencia a universidades cubanas de tecnologías avanzadas de diseño de sistemas embebidos para el fortalecimiento de las capacidades de innovación y de formación postgraduada
+IP: 
+                  Piedad Brox Jiménez",http://www.imse-cnm.csic.es/es/proyectos-ind.php?idproyecto=268
+Digital Signal Processing & VLSI Systems,,,,Analog Signal Processing - Digital Signal Processing & VLSI Systems,http://www.imse-cnm.csic.es/es/areas/analog-sp.php
+Brain-Inspired Neural Networks and Artificial Intelligence,,,,Digital Signal Processing & VLSI Systems - Brain-Inspired Neural Networks and Artificial Intelligence,http://www.imse-cnm.csic.es/es/areas/digital-spvs.php
+Sensory & Photonic Vision Systems,,,,Brain-Inspired Neural Networks and Artificial Intelligence - Sensory & Photonic Vision Systems,http://www.imse-cnm.csic.es/es/areas/brain-innai.php
+Nanoelectronics and Emerging Technologies,,,,Sensory & Photonic Vision Systems - Nanoelectronics and Emerging Technologies,http://www.imse-cnm.csic.es/es/areas/sensory-pvs.php
+Biomedical and Bioinspired Circuits and Systems,,,,Nanoelectronics and Emerging Technologies - Biomedical and Bioinspired Circuits and Systems,http://www.imse-cnm.csic.es/es/areas/nanoelectronics-et.php
+Integrated Circuits for Space Applications,,,,Biomedical and Bioinspired Circuits and Systems - Integrated Circuits for Space Applications,http://www.imse-cnm.csic.es/es/areas/biomedical-bcs.php
+Laboratorio de Optoelectrónica,,,,Laboratorio de Caracterización de Dispositivos - Laboratorio de Optoelectrónica,http://www.imse-cnm.csic.es/es/laboratorios/caracterizacion.php
+Laboratorio de Radiofrecuencia,,,,Laboratorio de Optoelectrónica - Laboratorio de Radiofrecuencia,http://www.imse-cnm.csic.es/es/laboratorios/optoelectronica.php
+Laboratorio de Medidas Analógico/Digitales,,,,Laboratorio de Radiofrecuencia - Laboratorio de Medidas Analógico/Digitales,http://www.imse-cnm.csic.es/es/laboratorios/radiofrecuencia.php
+Laboratorio de Láser Pulsado,,,,Laboratorio de Medidas Analógico/Digitales - Laboratorio de Láser Pulsado,http://www.imse-cnm.csic.es/es/laboratorios/medidas-ad.php
+Laboratorio de Ciberseguridad del Hardware,,,,Laboratorio de Láser Pulsado - Laboratorio de Ciberseguridad del Hardware,http://www.imse-cnm.csic.es/es/laboratorios/laser-pulsado.php
+Laboratorio de Sistemas Complejos,,,,Laboratorio de Ciberseguridad del Hardware - Laboratorio de Sistemas Complejos,http://www.imse-cnm.csic.es/es/laboratorios/ciberseguridad.php
+Taller de Montajes Especiales,,,,ATE Agilent 93000 - Taller de Montajes Especiales,http://www.imse-cnm.csic.es/es/laboratorios/agilent-93k.php
+Taller de Encapsulado,,,,Taller de Montajes Especiales - Taller de Encapsulado,http://www.imse-cnm.csic.es/es/laboratorios/montajes-especiales.php
+Taller de Mecanización y Montaje de PCBs,,,,Taller de Encapsulado - Taller de Mecanización y Montaje de PCBs,http://www.imse-cnm.csic.es/es/laboratorios/encapsulado.php
+Agilent Advanced Design System,,,,Hspice - Agilent Advanced Design System,http://www.imse-cnm.csic.es/es/herramientas-cad.php
+ContactoCondiciones de usofactura-e,,,,info » - ContactoCondiciones de usofactura-e,http://www.imse-cnm.csic.es/includes/ofml.php
