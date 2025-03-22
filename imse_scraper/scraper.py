@@ -193,6 +193,36 @@ class IMSEScraperAdvanced:
         self.extracted_data['projects'] = projects
         return projects
     
+    def extract_project_contents(self, projects=None):
+        """
+        Extract detailed content from individual project pages.
+        
+        Args:
+            projects: List of projects to extract content from (if None, use previously extracted projects)
+            
+        Returns:
+            Dictionary with project URLs as keys and content details as values
+        """
+        self.logger.info("Extracting detailed project contents")
+        
+        # If no projects provided, use previously extracted projects
+        if projects is None:
+            projects = self.extracted_data.get('projects', [])
+        
+        if not projects:
+            self.logger.warning("No projects available to extract content from")
+            return {}
+        
+        from imse_scraper.extractors.project_contents import extract_project_contents
+        project_contents = extract_project_contents(
+            self.session_manager,
+            projects,
+            self.logger
+        )
+    
+        self.extracted_data['project_contents'] = project_contents
+        return project_contents
+    
     def extract_all_subpages(self, base_sections=None, max_depth=1):
         """
         Extract content from all main sections and their subpages.
@@ -276,7 +306,7 @@ class IMSEScraperAdvanced:
         self.logger.info("Data cleaned and normalized")
         return cleaned_data
     
-    def run_full_scrape(self, include_subpages=False, subpage_depth=1, save_json=True):
+    def run_full_scrape(self, include_subpages=False, subpage_depth=1, save_json=True, extract_content=True):
         """
         Run complete scraping of the website.
         
@@ -284,6 +314,7 @@ class IMSEScraperAdvanced:
             include_subpages: If True, also extract all subpages
             subpage_depth: Maximum depth for subpage extraction
             save_json: If True, also save JSON files (in addition to CSV)
+            extract_content: If True, extract detailed content from project pages
             
         Returns:
             Dictionary with all extracted data
@@ -332,6 +363,12 @@ class IMSEScraperAdvanced:
         save_to_csv(projects, 'projects', self.output_dir, self.logger)
         if save_json:
             save_to_json(projects, 'projects', self.output_dir, self.logger)
+        
+        # Extract detailed project contents
+        if extract_content and projects:
+            project_contents = self.extract_project_contents(projects)
+            if save_json:
+                save_to_json(project_contents, 'project_contents', self.output_dir, self.logger)
         
         # Optionally extract all subpages
         if include_subpages:
